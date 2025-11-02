@@ -10,7 +10,7 @@ On remodeling our kitchen, I thought this through and realized I could do this.
 This is based on Crestron, so at its basic it is in a version of C.
 You need to have access to Creston SIMPL to install this.
 One can use any generation processor and you do not need a touchscreen.
-For the one button press this uses a CEN-RFGW-EX to communicate to a CEN-GWEXER button.
+For the one button press this uses a CLW-SWEX-P to communicate to a CEN-RFGW-EX RF Receiver and to turn on 120 Volt power to an outlet for the mirror ball motor and to the spotlight and an LED disco light.
 
 ECONONMY OF MEANS:
 This is made of consumer and recycled parts. There is nothing commercial about this.
